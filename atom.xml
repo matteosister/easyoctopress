@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://matteosister.github.io/easyoctopress/atom.xml" rel="self"/>
   <link href="http://matteosister.github.io/easyoctopress/"/>
-  <updated>2013-05-24T22:51:15+02:00</updated>
+  <updated>2013-05-24T22:55:08+02:00</updated>
   <id>http://matteosister.github.io/easyoctopress/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -18,7 +18,7 @@
     <link href="http://matteosister.github.io/easyoctopress/blog/2013/05/24/prova/"/>
     <updated>2013-05-24T22:51:00+02:00</updated>
     <id>http://matteosister.github.io/easyoctopress/blog/2013/05/24/prova</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<p>i cazzi che <em>ti si fregano</em></p>
 ]]></content>
   </entry>
   
